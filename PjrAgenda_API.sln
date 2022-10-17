@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PjrAgenda_API", "PjrAgenda_API\PjrAgenda_API.csproj", "{323448F6-F3ED-434F-8D0A-C9162B9C6B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323448F6-F3ED-434F-8D0A-C9162B9C6B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323448F6-F3ED-434F-8D0A-C9162B9C6B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323448F6-F3ED-434F-8D0A-C9162B9C6B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323448F6-F3ED-434F-8D0A-C9162B9C6B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78358FB1-B675-4D03-ACAD-DB1ACA1EEECC}
+	EndGlobalSection
+EndGlobal
